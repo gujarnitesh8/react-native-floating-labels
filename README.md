@@ -107,6 +107,7 @@ Following properties of TextInput are supported:
 - clearButtonMode
 - clearTextOnFocus
 - controlled
+- blurOnSubmit
 - editable
 - enablesReturnKeyAutomatically
 - keyboardType
